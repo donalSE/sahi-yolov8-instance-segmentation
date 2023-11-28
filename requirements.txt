@@ -8,3 +8,5 @@ fire
 terminaltables
 requests
 click
+torch
+ultralytics

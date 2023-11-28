@@ -1,0 +1,16 @@
+names:
+- Bunker
+- Fairway
+- Green
+- Tee
+- Water
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: danish-golf
+  url: https://universe.roboflow.com/sportedge/danish-golf/dataset/1
+  version: 1
+  workspace: sportedge
+test: ../test/images
+train: danish-golf-1/train/images
+val: danish-golf-1/valid/images

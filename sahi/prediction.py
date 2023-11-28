@@ -170,7 +170,7 @@ class PredictionResult:
         text_size: float = None,
         rect_th: int = None,
         hide_labels: bool = False,
-        hide_conf: bool = False,
+        hide_conf: bool = True,
         file_name: str = "prediction_visual",
     ):
         """
